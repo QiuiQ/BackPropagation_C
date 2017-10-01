@@ -1,0 +1,8 @@
+﻿  BackPropagation.cpp
+d:\programming\c\project\backpropagation\backpropagation\backpropagation.cpp(82): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\programming\c\project\backpropagation\backpropagation\backpropagation.cpp(113): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+d:\programming\c\project\backpropagation\backpropagation\backpropagation.cpp(125): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+d:\programming\c\project\backpropagation\backpropagation\backpropagation.cpp(147): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+d:\programming\c\project\backpropagation\backpropagation\backpropagation.cpp(157): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+d:\programming\c\project\backpropagation\backpropagation\backpropagation.cpp(165): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+  BackPropagation.vcxproj -> D:\Programming\C\Project\BackPropagation\Debug\BackPropagation.exe
